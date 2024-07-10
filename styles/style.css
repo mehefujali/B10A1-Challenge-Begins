@@ -252,6 +252,7 @@ button {
 .my-next-target {
     width: 1140px;
     margin: 0 auto;
+    margin-bottom: 49px;
 }
 
 .my-next-title-pirt {
@@ -291,7 +292,8 @@ button {
     margin: 0 auto;
     padding: 64px 48px;
     background-size: cover;
-    margin-bottom: 100px;
+    margin-bottom: 118px;
+
     text-align: center;
     color: white;
     border-radius: 16px;
