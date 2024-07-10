@@ -141,6 +141,8 @@ button {
     padding: 12px 20px;
 }
 
+/* reverse card  */
+
 .why-card-rev {
     display: flex;
     flex-direction: row-reverse;
@@ -148,4 +150,44 @@ button {
     padding: 50px;
     margin-top: 48px;
     justify-content: space-between;
+}
+
+
+
+/* My Inspiration section  */
+
+
+.my-inspiration {
+    width: 1140px;
+    margin: auto;
+    margin-top: 88px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 183px;
+
+
+}
+
+.my-ins-about {
+    text-align: center;
+    width: 850px;
+    margin: auto;
+    margin-bottom: 80px;
+}
+
+.my-ins-title {
+    font-size: 30px;
+    font-weight: 800;
+    margin-bottom: 24px;
+}
+
+.my-ins-des {
+    font-size: 16px;
+    color: rgb(13, 19, 33);
+}
+
+.inspiration-video {
+    margin: 0 auto;
+    border-radius: 16px;
 }
