@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+    font-family: "Azeret Mono";
+}
+
+
+/* navbar style  */
+
+
+.nav-bar {
+    display: flex;
+    max-width: 1320px;
+    justify-content: space-between;
+    margin: auto;
+    margin-top: 38px;
+}
+
+.downlod-resume-btn {
+    font-size: 20px;
+    padding: 17px 24px;
+    border-radius: 8px;
+
+}
+
+.logo {
+    font-size: 28px;
+}
