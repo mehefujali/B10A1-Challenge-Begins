@@ -244,6 +244,42 @@ button {
     font-size: 16px;
     font-weight: 700;
     color: black;
+
+}
+
+/* My Next target  */
+
+.my-next-target {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.my-next-title-pirt {
+    text-align: center;
+    width: 852px;
+    margin: auto;
+}
+
+.my-next-title-pirt h1 {
+    font-size: 32px;
+    font-weight: 800;
+    margin-bottom: 24px;
+}
+
+.my-next-title-pirt p {
+    font-size: 16px;
+    color: rgb(83, 84, 88);
+    margin-bottom: 24px;
+}
+
+.next-target-card {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    border: .5px solid rgb(214, 214, 214);
+    padding: 40px;
+    border-radius: 16px;
+    margin-bottom: 24px;
 }
 
 /* I need Support  */
