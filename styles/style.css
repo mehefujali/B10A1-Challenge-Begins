@@ -191,3 +191,57 @@ button {
     margin: 0 auto;
     border-radius: 16px;
 }
+
+
+/* My Current Target  */
+.current-target {
+    margin-bottom: 89px;
+}
+
+.current-tar-abo {
+    width: 852px;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 48px;
+}
+
+.current-tar-title {
+    font-size: 32px;
+    font-weight: 800;
+    margin-bottom: 24px;
+
+}
+
+.curent-tar-des {
+    font-size: 16px;
+    color: rgb(13, 19, 33);
+}
+
+/* Current turget card */
+
+.current-target-cards {
+    margin-top: 48px;
+    width: 1140px;
+    margin: 0 auto;
+    display: flex;
+    gap: 104px;
+}
+
+.curent-card-title {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 8px;
+    margin-top: 24px;
+}
+
+.curent-card-dis {
+    font-size: 16px;
+    color: rgb(83, 84, 88);
+    margin-bottom: 24px;
+}
+
+.curent-card-lernmore {
+    font-size: 16px;
+    font-weight: 700;
+    color: black;
+}
