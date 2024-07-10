@@ -245,3 +245,59 @@ button {
     font-weight: 700;
     color: black;
 }
+
+/* I need Support  */
+
+.need-support {
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(32, 32, 12, 0.548), black), url(../assets/handshake.jpg);
+    background-position: center;
+    width: 1044px;
+    margin: 0 auto;
+    padding: 64px 48px;
+    background-size: cover;
+    margin-bottom: 100px;
+    text-align: center;
+    color: white;
+    border-radius: 16px;
+}
+
+.need-support-title {
+    font-size: 30px;
+    font-weight: 800;
+    margin-bottom: 24px;
+}
+
+.need-support-des {
+    font-size: 16px;
+
+    margin-bottom: 40px;
+}
+
+.need-support-input {
+    width: 514px;
+    padding: 19px 20px;
+    font-size: 16px;
+    border-radius: 8px;
+    border: none;
+
+
+}
+
+.need-support-input:focus {
+    outline: none;
+}
+
+.need-support-btn {
+    padding: 19px 20px;
+    border-radius: 8px;
+    border: none;
+    font-size: 16px;
+
+}
+
+.need-support-btn:hover {
+    padding: 17.5px 18.5px;
+    border: 1.5px solid white;
+    background: transparent;
+    color: white;
+}
