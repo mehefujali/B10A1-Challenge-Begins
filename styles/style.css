@@ -5,6 +5,11 @@
     font-family: "Azeret Mono";
 }
 
+button {
+    cursor: pointer;
+}
+
+
 
 /* navbar style  */
 
@@ -21,6 +26,7 @@
     font-size: 20px;
     padding: 17px 24px;
     border-radius: 8px;
+    cursor: pointer;
 
 }
 
@@ -69,4 +75,77 @@
     background-color: rgb(13, 19, 33);
     border-radius: 8px;
     margin-top: 32px;
+}
+
+
+
+/* Why Web Development Section  */
+.why-web-development {
+
+    display: flex;
+
+    justify-content: center;
+    margin-top: 74px;
+}
+
+.why-contener {
+    width: 946px;
+    padding: 80px 97px;
+    /* border: 1px solid; */
+}
+
+.why-title-dis {
+    text-align: center;
+
+}
+
+.why-title-dis h1 {
+    font-size: 32px;
+    font-weight: 800;
+    margin-bottom: 24px;
+
+}
+
+.why-title-dis p {
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+}
+
+/* Cards  */
+.why-card {
+    display: flex;
+    width: 850px;
+    padding: 50px;
+    margin-top: 48px;
+    justify-content: space-between;
+}
+
+.why-card-text {
+    width: 477px;
+}
+
+.why-card-title {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 16px;
+}
+
+.why-card-dis {
+    font-size: 16px;
+    color: rgb(13, 19, 33);
+    margin-bottom: 32px;
+}
+
+.why-card-btn {
+    font-size: 20px;
+    padding: 12px 20px;
+}
+
+.why-card-rev {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 850px;
+    padding: 50px;
+    margin-top: 48px;
+    justify-content: space-between;
 }
